@@ -1,0 +1,34 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.content{
+	position:absolute;
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	margin:auto;
+	width:400px;
+	height:200px;
+	background: #ccc; 
+}
+
+.yuan-l{
+	width:50px;
+	height: 50px;
+	background: #fc0;
+	border-radius:0 0 50px 0;
+}
+
+.yuan-r{
+	position:absolute;
+	bottom:0px;
+	right:0px;
+	margin-bottom:0;
+	width:50px;
+	height: 50px;
+	background: #fc0;
+	border-radius:50px 0 0 0;
+}

@@ -1,0 +1,168 @@
+body,div,dl,dt,dd,form,th,td,input,button,span,strong,p,ul,li,img{
+	margin:0;
+	padding:0;
+} 
+
+body{
+	background: #bcbcbc;
+	font-size: 20px;
+	letter-spacing: 1px;
+	font-family:"Microsoft YaHei",微软雅黑;
+}
+
+
+.content-one .content p{
+	text-indent:2em;
+	line-height:40px;
+}
+
+.content-two .content p{
+	text-indent:2em;
+	line-height:40px;
+}
+
+.nav{
+	height:80px;
+	background: #4a4a4a;
+	margin-bottom:30px;
+}
+
+.nav img{
+	position:absolute;
+	margin-left:20px;
+	margin-top: -10px;
+}
+
+.nav-team{
+	position:absolute;
+	right:0px;
+	margin:30px 20px 0px 20px;
+}
+
+.nav-team .mnav{
+	float:left;
+	font-size:16px;
+	margin-left:40px;
+}
+.nav-team .active{
+	color: #9b9b9b;
+}
+
+.nav-team a{
+	color:#fff;
+	text-decoration:none;
+    font-weight: bold;
+}
+
+.content-one{
+	background:#fff;
+	border-style:outset;
+	margin:30px 660px 30px 30px;
+}
+
+.content-two{
+	background:#fff;
+	border-style:outset;
+	margin:30px 660px 30px 30px;
+}
+
+.content-three{
+	background:#fff;
+	border-style:outset;
+	margin:30px 660px 30px 30px;
+	overflow: auto;
+}
+
+.content-four{
+	background:#fff;
+	border-style:outset;
+	margin:30px 660px 30px 30px;
+	padding-bottom: 30px;
+}
+
+.content-five{
+	position:absolute;
+	width:600px;
+	top:80px;
+	right:0;
+	background:#fff;
+	border-style:outset;
+	margin:30px;
+}
+
+.content{
+	margin:30px;
+}
+
+.list-one{
+	 list-style: none;
+	 line-height:40px;
+	 margin-left: 30px;
+}
+
+.photo-list{
+	float:left;
+	text-align: center;
+	width:200px;
+	border:1px solid #000;
+	margin-bottom: 20px;
+	margin-left:40px;
+}
+
+.tab-td{
+	background: #000;
+	color:#fff;
+}
+
+ .content-five .sidebar h3{
+ 	margin-left: 30px;
+	border-left: 4px solid #bcbcbc;
+	padding: 10px 10px;
+}
+
+
+.text-td{
+	color: #bcbcbc;
+	font-size: 16px;
+}
+
+.regsiter{
+	margin-left:50px;
+	overflow: hidden;
+}
+
+.regsiter tr td:first-child{
+	text-align: right;
+}
+
+.regsiter tr td:nth-child(2){
+	border-left:10px solid #fff;
+}
+
+#ad{
+	height:30px;
+	font-size:20px;
+	line-height: 30px;
+}
+
+
+.button{
+	height:60px;
+	width:500px;
+	color:#fff;
+	background: #3355d0;
+	line-height:60px;
+	border-radius:15px;
+	font-size: 16px;
+	font-weight: bold;
+	margin: 30px 0 30px 50px;
+}
+
+.footer{
+	height:100px;
+	background: #000;
+	color:#fff;
+	text-align: center;
+	line-height: 100px;
+}
+
